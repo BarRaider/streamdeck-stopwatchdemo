@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Stopwatch",
+      "States": [
+        {
+          "Image": "Images/bg",
+          "TitleAlignment": "bottom",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Stopwatch implementation with various display and behaviour settings.",
+      "UUID": "com.barraider.stopwatch",
+      "PropertyInspectorPath": "PropertyInspector/Stopwatch/Index.html"
+    }
+  ],
+  "Author": "BarRaider",
+  "Description": "Stopwatch implementation with various display and behaviour settings.",
+  "Name": "Stopwatch",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://barraider.github.io/",
+  "Version": "1.1",
+  "CodePath": "com.barraider.stopwatch",
+  "Category": "BarRaider",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
