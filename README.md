@@ -2,10 +2,10 @@
 A C# Stopwatch implementation for the Elgato Stream Deck device.
 
 ## Dependencies
-This plugin uses the [StreamDeck-Tools](https://github.com/BarRaider/streamdeck-tools) v2.0
+This plugin uses the [StreamDeck-Tools](https://github.com/BarRaider/streamdeck-tools) v2.0 [![NuGet](https://img.shields.io/nuget/v/streamdeck-tools.svg?style=flat)](https://www.nuget.org/packages/streamdeck-tools)
 
 ## Current functionality
-- New: Long press (2 seconds) on the key to reset the stopwatch
+- New: Long press (1 second) on the key to reset the stopwatch
 - Multiple Stopwatches suppport
 - Stopping/Starting a watch
 - Option to not reset the watch after it's restarted
